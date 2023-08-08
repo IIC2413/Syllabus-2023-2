@@ -41,9 +41,7 @@ Lucas Fernández | Cátedra  | [lucas.fernndez@uc.cl]
 
 #### Ayudantes
 
-Nombre           | Email
----------------- | ----------------
-*nombre*	       |  *mail*
+En proceso
 
 
 
@@ -79,7 +77,7 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 #16     |No hay clases								  |     | 
 
 
-(*) Significa la materia que se evaluará en el examen final. Fecha de examen final: *xx* - Diciembre - 2023
+(*) Significa la materia que se evaluará en el examen final. Fecha de examen final: *06* - Diciembre - 2023
 
 ### Bibliografía 
 - Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
@@ -92,13 +90,13 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 
 Fecha      | Evaluación
 -----------|------------
-***xx* - *xx* - 2023**  | Enunciado C1
-***xx* - *xx* - 2023** | Entrega C1
-***xx* - *xx* - 2023**  | Enunciado C2
-***xx* - *xx* - 2023**  | Entrega C2
-***xx* - *xx* - 2023**   | Enunciado C3
-***xx* - *xx* - 2023**  | Entrega C3
-**xx** - **xx** - 2023  | Examen
+***23* - *08* - 2023**  | Enunciado C1
+***25* - *08* - 2023** | Entrega C1
+***11* - *10* - 2023**  | Enunciado C2
+***13* - *10* - 2023**  | Entrega C2
+***22* - *11* - 2023**   | Enunciado C3
+***24* - *11* - 2023**  | Entrega C3
+***06* - *12* - 2023**  | Examen
 
 
 ### Proyecto
@@ -152,17 +150,16 @@ Una vez resuelto el problema, da las **gracias** y **cierra el issue**.
 ---
 
 ## Política de integridad académica
-
-Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que **mantengan altos estándares de honestidad académica**.  Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
-
-Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros.  Por _trabajo_ se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
-
-**En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.**
-
-Por _copia_ se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona.  **En caso que corresponda a _copia_ a otros alumnos, la sanción anterior se aplicará a todos los involucrados**.  En todos los casos, se informará a la Dirección de Docencia de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
-
+Departamento Ciencia de la Computación
+Escuela de Ingeniería – Pontificia Universidad Católica de Chile
+ 
+Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que mantengan altos estándares de honestidad académica.  Cualquier acto deshonesto o fraude académico está prohibido; los/as estudiantes que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada estudiante conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería.
+Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho individualmente por el/la estudiante, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
+En particular, si un/a estudiante copia un trabajo, o si a un/a estudiante se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.
+Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona. En caso que corresponda a “copia” a otros estudiantes, la sanción anterior se aplicará a todos los involucrados.  En todos los casos, se informará a la Dirección de Pregrado de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
+También se entiende por copia extraer contenido sin modificarlo sustancialmente desde fuentes digitales como Wikipedia o mediante el uso de asistentes inteligentes como ChatGPT o Copilot. Se entiende que una modificación sustancial involucra el análisis crítico de la información extraída y en consecuencia todas las modificaciones y mejoras que de este análisis se desprendan. Cualquiera sea el caso, el uso de fuentes bibliográficas, digitales o asistentes debe declararse de forma explícita, y debe indicarse cómo el/la estudiante mejoró la información extraída para cumplir con los objetivos de la actividad evaluativa.
 Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
-
-Lo anterior se entiende como complemento al [Reglamento del Alumno de la Pontificia Universidad Católica de Chile].  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
-
-[Reglamento del Alumno de la Pontificia Universidad Católica de Chile]: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles
+Lo anterior se entiende como complemento al Reglamento del Estudiante de la Pontificia Universidad Católica de Chile (https://registrosacademicos.uc.cl/reglamentos/estudiantiles/).  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
+ 
+Compromiso del Código de Honor
+Este curso suscribe el Código de Honor establecido por la Universidad, el que es vinculante.  Todo trabajo evaluado en este curso debe ser propio. En caso que exista colaboración permitida con otros/as estudiantes, el trabajo deberá referenciar y atribuir correctamente dicha contribución a quien corresponda. Como estudiante es un debe conocer el Código de Honor (https://www.uc.cl/codigo-de-honor/)
