@@ -41,7 +41,10 @@ Lucas Fernández | Cátedra  | [lucas.fernndez@uc.cl]
 
 #### Ayudantes
 
-En proceso
+**En proceso**
+<!-- Nombre           | Email -->
+<!-- ---------------- | ---------------- -->
+<!-- *nombre*	       |  *mail* -->
 
 
 
