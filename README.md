@@ -40,12 +40,26 @@ Francisca Ancic | Proyecto | [francisca.ancic@uc.cl]
 Lucas Fernández | Cátedra  | [lucas.fernndez@uc.cl]
 
 #### Ayudantes
-
-**En proceso**
-<!-- Nombre           | Email -->
-<!-- ---------------- | ---------------- -->
-<!-- *nombre*	       |  *mail* -->
-
+Nombre           | Email
+---------------- | ----------------
+Andrés Moraga	| andresmoraga0@uc.cl
+Antonia Blanco	| antonia.blanco@uc.cl
+Benito Palacios	| benitopalaciosm@uc.cl
+Diego Astudillo	| diego.astudillo@uc.cl
+Diego Milla	| diego.milla@uc.cl
+Francisco Doberti	| fadoberti@uc.cl
+Gabriel Quiroz	| gabriel.quiroz@uc.cl
+Ignacio Quera | ignacio.quera@uc.cl
+Juan Ignacio Fernández	| jfernaandez@uc.cl
+Lucas Palacios	| lpalacios1@uc.cl
+Mateo De La Cuadra	| mateodlcc@uc.cl
+Nicole Larenas	| nlarenasb@uc.cl
+Pablo Aldana	| pablo.aldana@uc.cl
+Pablo Sepúlveda	| pablo.seplveda@uc.cl
+Paul Ian Mac-Guire	| paul.macguire@uc.cl
+Raimundo Escalona	| rjescalona@uc.cl
+Ricardo Oviedo	| Ricardo.oviedo@uc.cl
+Vicente Thomas	| vicente.thomas@uc.cl
 
 
 [nfalvarado@mat.uc.cl]: mailto:nfalvarado@mat.uc.cl
