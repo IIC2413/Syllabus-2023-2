@@ -94,7 +94,7 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 #16     |No hay clases								  |     | 
 
 
-(*) Significa la materia que se evaluará en el examen final. Fecha de examen final: *06* - Diciembre - 2023
+<!-- (*) Significa la materia que se evaluará en el examen final. Fecha de examen final: *07* - Diciembre - 2023 -->
 
 ### Bibliografía 
 - Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
@@ -113,7 +113,7 @@ Fecha      | Evaluación
 ***29* - *09* - 2023**  | Entrega C2
 ***15* - *11* - 2023**   | Enunciado C3
 ***17* - *11* - 2023**  | Entrega C3
-***06* - *12* - 2023**  | Examen
+***07* - *12* - 2023, 08:20**  | Examen
 
 
 ### Proyecto
