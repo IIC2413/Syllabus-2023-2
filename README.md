@@ -74,24 +74,25 @@ Vicente Thomas	| vicente.thomas@uc.cl
 
 ## Contenidos
 
-Semana	| Contenido clase						  |	Ayudantía | Evaluaciones 
---------|-----------------------------|------------|-------------------------------------------------------------------
-#1      |Introducción, Modelo relacional		  |     |  
-#2      |Álgebra relacional 					  |	Ayudantía 1 (C1) |  
-#3      |SQL                               	  |	Ayudantía 2 (Servidor) | C1, P1 (Enunciado)
-#4      |SQL Avanzado 				                      |  |  
-#5      |Modelo ER I 			  |     | 
-#6      |Modelo ER II 			  |     | P1 (Entrega)
-#7      |Dependencias, Anomalías,  normales |	Ayudantía 3 (PHP)     |  P2 (Enunciado)
-#8      |Lógica en la BD						  |     | C2
-#9      |Storage, Indexing               		  | Ayudantía 4 (P2)     |  
-#10     |Evaluación de consultas							  |	     | P2 (Entrega)
-#11     |Data Science y SQL						  |     |  P3 (Enunciado)
-#12     |Transacciones  |     |
-#13     |Recuperación de fallas  |     |
-#14     |NoSQL			  |     | C3 
-#15     |Bases de datos de grafos								  |     | P3 (Entrega)  
-#16     |No hay clases								  |     | 
+Semana	| Contenido clase						        |	Ayudantía               | Evaluaciones 
+--------|-----------------------------------|-------------------------|-----------------------
+#1      |Introducción, Modelo relacional    |                         |  
+#2      |Álgebra relacional 					      |	Ayudantía 1 (C1)        |  
+#3      |SQL                               	|	Ayudantía 2 (Servidor)  | C1, P1 (Enunciado)
+#4      |SQL Avanzado 				              |                         |  
+#5      |Modelo ER I 			                  |                         | 
+#6      |Modelo ER II 			                |                         | P1 (Entrega)
+#7      |Dependencias, Anomalías,  normales |	                        |  P2 (Enunciado)
+#8      |Lógica en la BD						        |   Ayudantía 3 (PHP)     | C2
+#9      |Semana de Receso						        |                         | 
+#10     |Storage, Indexing               	  | Ayudantía 4 (P2)        |  
+#11     |Evaluación de consultas						|	                        | P2 (Entrega)
+#12     |Data Science y SQL						      |                         |  P3 (Enunciado)
+#13     |Transacciones                      |                         |
+#14     |Recuperación de fallas             |                         |
+#15     |NoSQL			                        |                         | C3 
+#16     |Bases de datos de grafos						|                         | P3 (Entrega)  
+#17     |No hay clases								      |                         | 
 
 
 <!-- (*) Significa la materia que se evaluará en el examen final. Fecha de examen final: *07* - Diciembre - 2023 -->
