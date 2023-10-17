@@ -124,7 +124,7 @@ Fecha      | Evaluación
 ***23* - *08* - 2023**   | Enunciado P1
 ***15* - *09* - 2023**  | Entrega P1
 ***20* - *09* - 2023**  | Enunciado P2
-***18* - *10* - 2023**  | Entrega P2
+***20* - *10* - 2023**  | Entrega P2
 ***25* - *10* - 2023**   | Enunciado P3
 ***22* - *11* -2023**   | Entrega P3
 
