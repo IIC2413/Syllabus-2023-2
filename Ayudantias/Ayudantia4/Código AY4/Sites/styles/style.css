@@ -1,0 +1,89 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+
+.main{
+    padding: 3%;
+}
+
+.title{
+    margin: 0%;
+    padding: 3%;
+    text-align: center;
+    line-height: normal;
+    font-size: xxx-large;
+}
+
+.container{
+    text-align: center;
+    padding: 2%;
+}
+
+a{
+    color: rgb(29, 27, 27);
+}
+
+footer{
+    text-align: center;
+    padding: 4% 0%;
+    font-size: small;
+}
+
+.btn { 
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    line-height: 16px;
+    padding: 6px;
+    border-radius: 10px;
+    font-family: san-serif;
+    font-weight: bold;
+    border: 3px solid rgb(255 255 255);
+}
+
+.btn:hover { background: lightblue; }
+
+.btn:active { background: rgb(82, 190, 209); }
+
+.form-element {
+    margin: 2%;
+}
+
+.form-element input,select{
+    border: 0;
+    box-shadow: 0 0 15px 4px rgb(0 0 0 / 6%);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+}
+
+.table thead tr {
+    background-color: lightblue;
+    color: #000;
+    text-align: left;
+}
+
+.table th,
+.table td {
+    padding: 12px 15px;
+}
+
+.table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.table tbody tr:last-of-type {
+    border-bottom: 2px solid rgb(82, 166, 181);
+}
