@@ -11,7 +11,8 @@ A continuación le presentamos una serie de consejos para su uso:
 Issues
 Un resumen de las respuesta de los issues más relevantes
 - La aplicación dee conectarse a ambas bases de datos en forma idependiente, no integrarlas en un nuevo modelo (enunciado 3 Requerimientos). Solo deben integrarse las entidades indicadas explícitamente en el enunciado.
-- En 3.3 Navegación se deben implementar las consultas equivalentes en amas ases de datos. No solo streaming sino que tambien videojuegos. (se generó unna nueva versión del enunciado)
+- En 3.3 Navegación se deben implementar las consultas equivalentes en ambas bases de datos. No solo streaming sino que tambien videojuegos. (se generó unna nueva versión del enunciado)
 - Los scripts de carga deben hacerse en PHP y NO ES NECESARIO que se haga desde una página de la aplicación, puede ser por CLI. Se pueden desarrollar cargadores diferentes que se ejecuten en forma individual o conjunta a través de un makefile.
 - La encriptación de las claves se puede hacer de forma INDEPENDIENTE de los cargadores y cambiar los archivos de datos. Esto debe ser documentado en el Readme del proyecto.
-- NOTA: TODA ACCIÓN SOBRE LOS DATOS PRODUCTO DE PROBLEMAS DE CARGA SE DEBE DOCUMENTAR EN EL README. LAS INCONSISTENCIAS SON PARTE DEL PROBLEMA A SOLUCIONAR
+- El poblamiento de las tablas se dee hacer directo desde los archivos CSV, SIN PREPROCESAMEINTO. La modificación de los datos, si procede, se debe hacer con posterioridad a la ejecución de las cargas y de acuerdo a los errores que los cargadores reportes según las estrategias propuestas en el enunciado. 
+- NOTA: TODA ACCIÓN SOBRE LOS DATOS PRODUCTO  DE LA CARGA SE DEBE DOCUMENTAR EN EL README. LAS INCONSISTENCIAS SON PARTE DEL PROBLEMA A SOLUCIONAR
