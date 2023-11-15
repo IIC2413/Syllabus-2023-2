@@ -15,4 +15,6 @@ Un resumen de las respuesta de los issues más relevantes
 - Los scripts de carga deben hacerse en PHP y NO ES NECESARIO que se haga desde una página de la aplicación, puede ser por CLI. Se pueden desarrollar cargadores diferentes que se ejecuten en forma individual o conjunta a través de un makefile.
 - La encriptación de las claves se puede hacer de forma INDEPENDIENTE de los cargadores y cambiar los archivos de datos. Esto debe ser documentado en el Readme del proyecto.
 - El poblamiento de las tablas se dee hacer directo desde los archivos CSV, SIN PREPROCESAMEINTO. La modificación de los datos, si procede, se debe hacer con posterioridad a la ejecución de las cargas y de acuerdo a los errores que los cargadores reportes según las estrategias propuestas en el enunciado. 
+- ERROR en el enunciado original el diccionario de datos de proveedores impar  contiene dos atributos con su definición invertida costo y precio. Se subió una nueva versión
+- ERROR en el enunciado original el diccionario de datos indica que el atributo número es el número de capítulo lo correcto es temporada.
 - NOTA: TODA ACCIÓN SOBRE LOS DATOS PRODUCTO  DE LA CARGA SE DEBE DOCUMENTAR EN EL README. LAS INCONSISTENCIAS SON PARTE DEL PROBLEMA A SOLUCIONAR
